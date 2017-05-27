@@ -1,4 +1,4 @@
-# Garry Potter and the magic kettle!
+# Harry Potter and the magic kettle!
 
 ENG
 Game written as final project for Mobile Programming course on my University. As Harry Potter you have to catch elixirs that Snape is throwing down! Can you catch enough to make prof. Snape satisfied? Be careful! Not every potion should be caught!
